@@ -121,7 +121,7 @@ let swiperPortfolio = new Swiper('.portfolio_container', {
 
 /*==================== TESTIMONIAL ====================*/
 let swiperTestimonial = new Swiper('.testimonial_container', {
-    // cssMode: true,
+    cssMode: true,
     loop: true,
     grabCursor: true,
     spaceBetween: 48,
