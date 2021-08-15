@@ -115,8 +115,8 @@ let swiperPortfolio = new Swiper('.portfolio_container', {
         el: '.swiper-pagination',
         clickable: true,
     },
-    // mousewheel: true,
-    // keyboard: true,
+    mousewheel: true,
+    keyboard: true,
 });
 
 /*==================== TESTIMONIAL ====================*/

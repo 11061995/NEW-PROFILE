@@ -854,6 +854,7 @@ active-model {
 .swiper-button-next,
 .swipwer-pagination-bullets {
     outline: none;
+    color: var(--first-color);
 }
 
 
